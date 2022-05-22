@@ -1,0 +1,10 @@
+.column1{
+    text-align: center;
+    color: #f38282;
+}
+.idColumn{
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+}

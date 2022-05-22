@@ -1,0 +1,7 @@
+.welcomeBack,.avatar{
+    float: right;
+    margin:0 10px;
+}
+.dropdownItem{
+    background-color: red;
+}

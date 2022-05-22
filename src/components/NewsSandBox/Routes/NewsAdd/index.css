@@ -1,0 +1,24 @@
+.site-page-header {
+    /* border: 1px solid rgb(235, 237, 240);/ */
+    height: 80px;
+    
+  }
+  /* .editorContainer{
+
+  } */
+  .toolbarClassName{
+      /* background-color: antiquewhite; */
+      margin: 0;
+  }
+  .wrapperClassName{
+    /* background-color: aqua; */
+    height: 450px;
+    /* display: flex; */
+    flex-direction: column;
+  }
+  .editorClassName{
+    /* background-color: aquamarine; */
+    flex:1;
+    overflow: hidden;
+    padding: 0 10px 0px 10px;
+  }
